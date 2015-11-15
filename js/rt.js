@@ -63,9 +63,9 @@
 
     // Library agnostic interface
 
-    Wilq32=window.Wilq32||{};
-    Wilq32.PhotoEffect=(function(){
-
+  //  Wilq32=window.Wilqs32||{};
+  //  Wilq32.PhotoEffect=(function(){
+//
       if (supportedCSS) {
         return function(img,parameters){
           img.Wilq32 = {
